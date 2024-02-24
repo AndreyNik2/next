@@ -1,0 +1,1 @@
+export default function Rules() {return <div><h1>Map</h1></div>}
